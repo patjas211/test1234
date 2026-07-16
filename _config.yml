@@ -6,3 +6,5 @@ url: https://patjas211.github.io/test1234
 
 aux_links: # remove if you don't want this link to appear on your pages
   Infosys: https://infosys.beckhoff.com/index_en.htm
+
+logo: "/assets/images/logo1.png"
